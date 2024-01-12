@@ -17,7 +17,7 @@
      3.run following command in your project:
         open docker desktop app and then run following comand:
         docker compose up dev-db -d
-        it will start your container in background 
+        it will start your container in background  
 
         now if you write docker ps in cmd you see one container running.
 
