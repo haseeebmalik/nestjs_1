@@ -21,7 +21,7 @@
 
         now if you write docker ps in cmd you see one container running.
 
-        you can see docker container activity log by command:
+        you can see docker container activity log by command: 
 
           docker logs <CONTAINER ID>
 
